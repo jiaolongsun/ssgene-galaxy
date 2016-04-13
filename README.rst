@@ -1,3 +1,5 @@
+This is a clone to SSGENE.
+
 .. figure:: https://wiki.galaxyproject.org/Images/GalaxyLogo?action=AttachFile&do=get&target=galaxy_project_logo.jpg
    :alt: Galaxy Logo
 
